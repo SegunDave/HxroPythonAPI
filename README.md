@@ -6,5 +6,4 @@ This serves as an alternative to using the web interface on https://hxro.trade/l
 Please request for Api key in registeration on the platform to make use of this and insert in the quotes in subscriptionKey line.
 
 ======>subscriptionKey = "Put_Your_Api_Key_Here"<===========
-
 and of course, using this should be taken as a form of leisure and not a money making or investment avenue.
